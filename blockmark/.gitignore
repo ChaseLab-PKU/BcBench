@@ -1,0 +1,15 @@
+*.ptx
+*.ptxas
+_app_cuda_*
+_cuobjdump_*
+*.o
+.vscode/*
+bin_cryptonight/
+bin_hash/
+bin_neoscrypt
+bin/
+bin2/
+collect*/
+test_bin/
+*.log
+*.gz
